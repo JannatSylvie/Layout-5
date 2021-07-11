@@ -1,0 +1,82 @@
+.headerWrapper{
+	overflow: hidden;
+	background-color: plum;
+	margin: 0px 0px 10px 0px;
+}
+.logo{
+	min-height: 50px;
+	width: 10%;
+	float: left;
+	background-color: plum;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+}
+.nav{
+	min-height: 50px;
+	width: 10%;
+	float: right;
+	background-color: plum;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+}
+.wrapperBox1,.wrapperBox2,.wrapperBox3,.wrapperBox4{
+	overflow: hidden;
+}
+.square1{
+	min-height: 100px;
+	width: 8.183%;
+	float: left;
+	background-color: plum;
+	margin: ;
+	text-align: center;
+	margin: 10px 15px 10px 0px;
+}
+.square2{
+	min-height: 100px;
+	width: 8.183%;
+	float: left;
+	background-color: pink;
+	margin: 10px 15px 10px 0px;
+	text-align: center;
+}
+.square3{
+	min-height: 100px;
+	width: 8.183%;
+	float: left;
+	background-color: pink;
+	margin: 10px 0px 10px 0px;
+	text-align: center;
+}
+.wrapperBox5{
+	overflow: hidden;
+}
+.box1{
+	min-height: 105px;
+	width: 11.9%;
+	float: left;
+	background-color: plum;
+	margin: 10px 10px 10px 0px;
+	text-align: center;
+}
+.box2{
+	min-height: 105px;
+	width: 11.9%;
+	float: left;
+	background-color: pink;
+	margin: 10px 10px 10px 0px;
+	text-align: center;
+}
+.box3{
+	min-height: 105px;
+	width: 11.9%;
+	float: left;
+	background-color: pink;
+	margin: 10px 0px 10px 0px;
+	text-align: center;
+}
+.footer{
+	min-height: 25px;
+	background-color: plum;
+	margin: 10px 0px 0px 0px;
+	text-align: center;
+}
